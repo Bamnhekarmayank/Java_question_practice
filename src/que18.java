@@ -9,7 +9,7 @@ public class que18 {
         int temp= num;
          int armSum=0;
          int count=0;
-         while(temp>0){
+         while(temp>0){ //-->
              temp/=10;
              count++;
          }
